@@ -8,7 +8,7 @@
   align="right"
   alt="coding"
   width="400"
-  src="https://www.freepik.com/free-vector/coding-concept-illustration_6199076.htm#fromView=search&page=1&position=22&uuid=3c2d7260-8b65-4fe7-84c9-56dc95d75d55"
+  src="https://img.freepik.com/free-vector/coding-concept-illustration_114360-939.jpg?t=st=1724141846~exp=1724145446~hmac=6a3b596d089a888b4f5d7a961fcaf7e6d934048fbf1c7afd97e2fca87c5e500c&w=1380"
 />
 <p align="left">
   <img
