@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neel Shah</h1>
+<h1 align="center">Hi 👋, I'm Neel Shah 🇮🇳 </h1>
 <h3 align="center">Bridging Ideas and Technology with Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelshah768&label=Profile%20views&color=0e75b6&style=flat" alt="neelshah768" /> </p>
